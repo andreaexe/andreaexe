@@ -1,6 +1,6 @@
 # 👨‍💻 Andrea Sestini | Cybersecurity Specialist
 
-> Neodiplomato in Informatica con solide competenze tecniche e grande passione per l'ethical hacking. Cerco opportunità per applicare le mie conoscenze in sicurezza informatica, contribuendo con entusiasmo a progetti innovativi nel settore cybersecurity.
+> Sono uno studente autodidatta con una forte passione per l’ethical hacking e la sicurezza informatica. Mi piace mettermi alla prova con sfide pratiche e imparare continuamente cose nuove. Cerco un’opportunità per applicare le mie competenze in contesti reali, sia nel campo della cybersecurity che in altri ambiti IT come la programmazione o il networking. Sono curioso, motivato e sempre pronto a dare una mano su progetti interessanti.
 
 ## 🎓 Education
 - **Diploma di Perito Informatico** (2019-2024) - *Istituto Tecnico Industriale Statale Itis Meucci*
@@ -8,13 +8,15 @@
 
 ## 💼 Experience
 - **Stage PCTO** (2023) - *Gilbarco Veeder-Root, Firenze* - Ottimizzazione del codice per sistemi di distribuzione carburante
-- **Progetto PCTO "Latuaideadiimpresa"** (2022) - Sviluppo business plan per startup tecnologica
+- **Stage Cyber Security Specialist"** (2025) - *WeTechs, Firenze* - Amministratore di sistema e sicurezza ambito sanitario IT, OT
 
 ## 🏆 Certifications
-- **Introduction to Cybersecurity** - *Cisco Networking Academy*
-- **Ethical Hacker** - *Cisco Networking Academy*
 - **"SOLVE FOR TOMORROW CHAMPION"** - *Samsung Electronics*
 - **NQAI - ACELS B1** - Certificazione di lingua inglese
+- **Computer Hardware Basics** - *Cisco Networking Academy*
+- **Operating System Basics** - *Cisco Networking Academy*
+- **Introduction to Cybersecurity** - *Cisco Networking Academy*
+- **Ethical Hacker** - *Cisco Networking Academy*
 
 ## 🛠️ Key Skills
 - **Cybersecurity**: Ethical Hacking, Network Security, Information Security, Security by Design
